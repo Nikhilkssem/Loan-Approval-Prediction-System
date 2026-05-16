@@ -1,0 +1,51 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Type,Loan_Status
+LP101,Male,Yes,0,Graduate,No,5849,0,128,360,1,Urban,Home,Approved
+LP102,Male,Yes,1,Graduate,No,4583,1508,128,360,1,Rural,Vehicle,Approved
+LP103,Male,Yes,0,Graduate,Yes,3000,0,66,360,1,Urban,Business,Approved
+LP104,Male,No,0,Not Graduate,No,2583,2358,120,360,1,Urban,Personal,Approved
+LP105,Male,Yes,2,Graduate,No,6000,0,141,360,1,Urban,Home,Approved
+LP106,Male,Yes,0,Graduate,No,5417,4196,267,360,1,Semiurban,Vehicle,Approved
+LP107,Male,Yes,0,Not Graduate,Yes,2333,1516,95,360,1,Urban,Business,Rejected
+LP108,Male,Yes,3+,Graduate,No,3036,2504,158,360,0,Semiurban,Home,Rejected
+LP109,Male,Yes,1,Graduate,No,4006,1526,168,360,1,Urban,Vehicle,Approved
+LP110,Male,Yes,2,Graduate,No,12841,10968,349,360,1,Semiurban,Home,Approved
+LP111,Male,Yes,2,Graduate,No,3200,700,70,360,1,Urban,Education,Approved
+LP112,Female,No,0,Graduate,No,2500,0,90,180,1,Urban,Education,Approved
+LP113,Male,Yes,1,Graduate,Yes,4500,1000,120,360,0,Rural,Business,Rejected
+LP114,Female,Yes,0,Graduate,No,3800,1200,130,360,1,Semiurban,Personal,Approved
+LP115,Male,Yes,3+,Not Graduate,Yes,4100,1500,140,360,0,Rural,Vehicle,Rejected
+LP116,Male,Yes,2,Graduate,No,7000,2000,210,360,1,Semiurban,Home,Approved
+LP117,Female,No,0,Graduate,No,2800,0,100,360,1,Urban,Education,Approved
+LP118,Male,Yes,1,Not Graduate,No,3300,1000,110,360,0,Rural,Personal,Rejected
+LP119,Male,Yes,2,Graduate,Yes,6000,1800,200,360,1,Semiurban,Business,Approved
+LP120,Female,No,0,Graduate,No,2600,0,90,360,1,Urban,Education,Approved
+LP121,Male,Yes,0,Graduate,No,5000,2000,180,360,1,Semiurban,Home,Approved
+LP122,Male,Yes,1,Graduate,No,4200,1200,150,360,1,Urban,Vehicle,Approved
+LP123,Female,No,0,Graduate,No,3000,0,110,360,1,Urban,Education,Approved
+LP124,Male,Yes,2,Not Graduate,Yes,3500,1500,130,360,0,Rural,Business,Rejected
+LP125,Male,Yes,3+,Graduate,No,8000,2000,250,360,1,Semiurban,Home,Approved
+LP126,Female,No,0,Graduate,No,2400,0,90,180,1,Urban,Education,Approved
+LP127,Male,Yes,1,Not Graduate,No,3600,1400,120,360,0,Rural,Vehicle,Rejected
+LP128,Male,Yes,2,Graduate,Yes,7200,0,220,360,1,Semiurban,Business,Approved
+LP129,Female,No,0,Graduate,No,2800,0,105,360,1,Urban,Personal,Approved
+LP130,Male,Yes,3+,Not Graduate,Yes,4600,1500,140,360,0,Rural,Home,Rejected
+LP131,Male,Yes,0,Graduate,No,5200,1800,170,360,1,Urban,Home,Approved
+LP132,Female,No,1,Graduate,No,3100,0,100,360,1,Urban,Education,Approved
+LP133,Male,Yes,2,Not Graduate,Yes,3400,1500,120,360,0,Rural,Business,Rejected
+LP134,Male,Yes,1,Graduate,No,4500,1200,140,360,1,Semiurban,Vehicle,Approved
+LP135,Female,No,0,Graduate,No,2700,0,95,180,1,Urban,Personal,Approved
+LP136,Male,Yes,3+,Graduate,Yes,6800,2000,230,360,1,Semiurban,Home,Approved
+LP137,Male,Yes,2,Not Graduate,No,3600,1000,110,360,0,Rural,Vehicle,Rejected
+LP138,Female,No,0,Graduate,No,2900,0,105,360,1,Urban,Education,Approved
+LP139,Male,Yes,1,Graduate,Yes,4800,1500,150,360,1,Semiurban,Business,Approved
+LP140,Male,Yes,2,Graduate,No,6100,2000,190,360,1,Urban,Home,Approved
+LP141,Female,No,0,Graduate,No,2500,0,90,180,1,Urban,Education,Approved
+LP142,Male,Yes,3+,Not Graduate,Yes,4200,1600,135,360,0,Rural,Personal,Rejected
+LP143,Male,Yes,1,Graduate,No,5300,1700,160,360,1,Semiurban,Vehicle,Approved
+LP144,Female,No,0,Graduate,No,3000,0,100,360,1,Urban,Education,Approved
+LP145,Male,Yes,2,Graduate,Yes,7000,2500,240,360,1,Semiurban,Business,Approved
+LP146,Male,Yes,1,Not Graduate,No,3500,1200,125,360,0,Rural,Vehicle,Rejected
+LP147,Female,No,0,Graduate,No,2800,0,95,180,1,Urban,Personal,Approved
+LP148,Male,Yes,2,Graduate,No,6400,2100,200,360,1,Semiurban,Home,Approved
+LP149,Male,Yes,3+,Not Graduate,Yes,4100,1400,130,360,0,Rural,Business,Rejected
+LP150,Female,No,0,Graduate,No,2600,0,90,360,1,Urban,Education,Approved
